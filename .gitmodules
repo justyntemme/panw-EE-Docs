@@ -1,0 +1,3 @@
+[submodule "scripts/scripts/zoom"]
+	path = scripts/scripts/zoom
+	url = git@github.com:justyntemme/panw-zoom-scripts.git
