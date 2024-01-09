@@ -4,4 +4,4 @@ A resource for PANW EE's to collaborate on notes and strategies for addressing c
 
 
 ### Links
-* [https://github.com/justyntemme/panw-EE-Docs/wiki/_new](Wiki)
+*[https://github.com/justyntemme/panw-EE-Docs/wikiWiki](Wiki)
