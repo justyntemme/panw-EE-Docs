@@ -1,3 +1,6 @@
-[submodule "scripts/zoom"]
-	path = scripts/zoom
-	url = git@github.com:justyntemme/panw-zoom-scripts.git
+[submodule "scripts/prismaCloud/apiExplorer"]
+	path = scripts/prismaCloud/apiExplorer
+	url = git@github.com:justyntemme/apiExplorer.git
+[submodule "scripts/aws/deleteStaleResources"]
+	path = scripts/aws/deleteStaleResources
+	url = git@github.com:justyntemme/deleteStaleResources.git
