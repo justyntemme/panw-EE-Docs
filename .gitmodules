@@ -13,3 +13,6 @@
 [submodule "scripts/prismaCloud/defenderBuilderCICDPipelines"]
 	path = scripts/prismaCloud/defenderBuilderCICDPipelines
 	url = git@github.com:justyntemme/defender-cicd
+[submodule "scripts/prismaCloud/RQL2CSV"]
+	path = scripts/prismaCloud/RQL2CSV
+	url = git@github.com:PaloAltoNetworks/pc-rql-search.git
