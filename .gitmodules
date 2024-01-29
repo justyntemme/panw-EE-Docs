@@ -7,3 +7,9 @@
 [submodule "scripts/prismaCloud/defenderRuntimeRules"]
 	path = scripts/prismaCloud/defenderRuntimeRules
 	url = git@github.com:justyntemme/defender-runtime-policies.git
+[submodule "scripts/prismaCloud/pcsPostmanCollection"]
+	path = scripts/prismaCloud/pcsPostmanCollection
+	url = https://github.com/PaloAltoNetworks/pcs-postman.git
+[submodule "scripts/prismaCloud/defenderBuilderCICDPipelines"]
+	path = scripts/prismaCloud/defenderBuilderCICDPipelines
+	url = git@github.com:justyntemme/defender-cicd
