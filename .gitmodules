@@ -4,3 +4,6 @@
 [submodule "scripts/aws/deleteStaleResources"]
 	path = scripts/aws/deleteStaleResources
 	url = git@github.com:justyntemme/deleteStaleResources.git
+[submodule "scripts/prismaCloud/defenderRuntimeRules"]
+	path = scripts/prismaCloud/defenderRuntimeRules
+	url = git@github.com:justyntemme/defender-runtime-policies.git
